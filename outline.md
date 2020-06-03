@@ -1,9 +1,34 @@
-- job
+Job : 
+    - title
+    - location
+    - job type
+    - description
+    - published at
+    - Vacancy
+    - salary
+    - category
+    - experience 
+    
 
-- Blog
+    - apply job 
+    - post job
 
-- Contact
 
-- Home
+Blog : 
+    - title
+    - description 
+    - created_at
+    - category
+    - tags
+    - author
 
-- Login
+    - search
+    - comment
+    - recent posts
+
+
+Home
+
+Contact
+
+Login
